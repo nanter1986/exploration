@@ -1,1 +1,1 @@
-#here we go
+#create world database if it doesnt exist
