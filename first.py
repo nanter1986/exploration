@@ -9,3 +9,5 @@
 #show enviroment
 
 #show hud
+
+#accept controls
