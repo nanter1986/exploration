@@ -1,5 +1,7 @@
 #create world database if it doesnt exist
 
+#storyline switches
+
 #function for building area
 
 #function for building blocks of buildings
