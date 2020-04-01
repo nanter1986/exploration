@@ -11,5 +11,5 @@
 #show enviroment
 
 #show hud
-
+print("The game starts here!")
 #accept controls
