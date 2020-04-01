@@ -12,4 +12,6 @@
 
 #show hud
 print("The game starts here!")
+print("HEALTH:100")
+
 #accept controls
