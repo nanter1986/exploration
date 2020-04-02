@@ -1,5 +1,5 @@
 #create world database if it doesnt exist
-
+world=[]
 #storyline switches
 
 #function for building area
