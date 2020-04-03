@@ -5,7 +5,7 @@ switch=False
 #function for building area
 def build_area(size):
     area=""
-    for(i=0;i<size;i++):
+    for i in range(0,size):
         area+="|"
     return area
 #function for building blocks of buildings
