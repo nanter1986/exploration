@@ -2,14 +2,16 @@
 world=[]
 #storyline switches
 switch=False
+#Function for building city
+
 #function for building area
-def build_area(size):
     #2dimension array
+#function for building blocks of buildings
+def build_area(size):
     area=""
     for i in range(0,size):
         area=area+"|"
     return area
-#function for building blocks of buildings
 
 #function for building buildings
 
