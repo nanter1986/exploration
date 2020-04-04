@@ -4,9 +4,10 @@ world=[]
 switch=False
 #function for building area
 def build_area(size):
+    #2dimension array
     area=""
     for i in range(0,size):
-        area+="|"
+        area=area+"|"
     return area
 #function for building blocks of buildings
 
